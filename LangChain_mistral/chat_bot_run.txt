@@ -1,0 +1,48 @@
+(chatbot)
+mymac@DESKTOP-0NU9FIO MINGW64 ~/Documents/LangChain_mistral
+$ python chat_bot_mistral_langchain.py
+the chat id is  2
+User : Hi, I am Shreya
+AI :  Hello Shreya! Nice to meet you. How are you today? Is there something you would like to talk about or ask me?
+User : I am from India and work as a Software Engineer
+AI :  That's great! India has a vibrant tech industry. Here are a few questions to keep our conversation going:
+
+1. What programming languages do you primarily work with?
+2. Do you have a favorite tech stack or framework that you enjoy using?
+3. How did you get started in software engineering?
+4. What are some of the projects you're currently working on or have worked on in the past?
+5. How is the work culture in India's tech industry?
+
+Looking forward to hearing your responses!
+User : How are you
+AI :  I'm functioning well, thank you! I'm here to help and engage in conversation. How about you? How has your day been so far?
+User : how is your day
+AI :  I don't have personal experiences or a physical presence, so I don't have good or bad days. I'm here to assist you and have a conversation whenever you need it. Is there something specific you would like to talk about or ask me? I'm all ears! If you're up for it, I can tell a joke to lighten the mood. Here it is:
+
+What's a pirate's favorite programming language?
+
+R!
+User : can you tell me my name and my profession ?
+AI :  Based on our conversation earlier, you introduced yourself as Shreya and mentioned that you work as a Software Engineer. Is that correct?
+User : yes
+AI :  Great! If you have any questions about software engineering or any other topic, feel free to ask. I'm here to help. To keep our conversation going, here are a few more questions:
+
+1. What do you enjoy most about being a software engineer?
+2. Are there any specific technologies or trends you're excited about in the software engineering world?
+3. How do you stay updated with the latest developments in your field?
+4. Do you have any hobbies or interests outside of work?
+
+Looking forward to hearing your thoughts!
+User : exit
+AI : Goodbye!!!
+(chatbot)
+mymac@DESKTOP-0NU9FIO MINGW64 ~/Documents/LangChain_mistral
+$ python chat_bot_mistral_langchain.py
+the chat id is  1
+User : hi, can you tell me my name?
+AI :  I'm afraid I can't tell you your name because I don't have access to any personal information about you. I can only see the messages you send in this conversation. If you'd like to share your name, you're welcome to do so!
+User : exit
+AI : Goodbye!!!
+(chatbot)
+mymac@DESKTOP-0NU9FIO MINGW64 ~/Documents/LangChain_mistral
+$
